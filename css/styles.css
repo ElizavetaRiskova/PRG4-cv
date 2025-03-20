@@ -1,7 +1,7 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
 
@@ -14,11 +14,11 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #d49fa8;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #FFC0CB;
 }
 
 .resume-aside {
@@ -49,3 +49,21 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+h1{
+	font-family: "Sigmar", sans-serif;
+  font-weight: 350;
+  font-style: normal; 
+  font-size: 3em;
+ 
+}
+
+
+.change-color-level {
+	background-color: #A020F0;
+}
+
+.gray{
+	color: #36454F;
+}
+
